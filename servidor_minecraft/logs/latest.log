@@ -1,0 +1,113 @@
+[06:51:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[06:51:08] [ServerMain/INFO]: Loaded 1515 recipes
+[06:51:08] [ServerMain/INFO]: Loaded 1617 advancements
+[06:51:08] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[06:51:08] [Server thread/INFO]: Loading properties
+[06:51:08] [Server thread/INFO]: Default game type: SURVIVAL
+[06:51:08] [Server thread/INFO]: Generating keypair
+[06:51:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:51:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:51:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:51:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:51:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:51:09] [Server thread/INFO]: Preparing level "world"
+[06:51:09] [Server thread/INFO]: Loading 98 persistent chunks...
+[06:51:09] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:10] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:10] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:11] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:11] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:12] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:12] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:13] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:13] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:14] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:14] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:15] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:15] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:16] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:16] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:17] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:17] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:18] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:18] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:19] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:19] [Server thread/INFO]: Preparing spawn area: 9%
+[06:51:20] [Server thread/INFO]: Time elapsed: 10483 ms
+[06:51:20] [Server thread/INFO]: Done (11.127s)! For help, type "help"
+[06:51:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:51:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:51:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:51:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:51:32] [Server thread/INFO]: LightAster[/100.81.31.81:61249] logged in with entity id 124 at (98.83924573479958, 50.200000047683716, -0.1993093755295361)
+[06:51:32] [Server thread/INFO]: LightAster joined the game
+[06:51:33] [Server thread/INFO]: rafai11[/100.100.96.78:60639] logged in with entity id 166 at (-80.50404655572086, 72.0, 20.515378338145254)
+[06:51:34] [Server thread/INFO]: rafai11 joined the game
+[06:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[06:53:17] [Server thread/INFO]: LightAster has made the advancement [Remote Getaway]
+[06:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[06:55:12] [Server thread/INFO]: LightAster has made the advancement [The City at the End of the Game]
+[06:56:17] [Server thread/INFO]: LightAster has reached the goal [Sky's the Limit]
+[06:56:22] [Server thread/INFO]: [Not Secure] <LightAster> consegui una
+[06:56:26] [Server thread/INFO]: [Not Secure] <LightAster> ya consigo ahgoirtta otra
+[06:57:28] [Server thread/INFO]: [Not Secure] <LightAster> -1208 ~ -280
+[06:57:35] [Server thread/INFO]: [Not Secure] <rafai11> salve a tus aldeanos de un zombie chiquito
+[06:57:39] [Server thread/INFO]: [Not Secure] <LightAster> esa es
+[06:57:45] [Server thread/INFO]: [Not Secure] <LightAster> grazias
+[07:02:56] [Server thread/INFO]: [LightAster: Teleported LightAster to rafai11]
+[07:02:56] [Server thread/INFO]: LightAster has completed the challenge [Great View From Up Here]
+[07:03:05] [Server thread/INFO]: [Not Secure] <LightAster> oli
+[07:03:13] [Server thread/INFO]: [Not Secure] <rafai11> cha
+[07:03:17] [Server thread/INFO]: [Not Secure] <rafai11> o
+[07:03:20] [Server thread/INFO]: rafai11 has reached the goal [Sky's the Limit]
+[07:03:40] [Server thread/INFO]: [Not Secure] <LightAster> voy a comprar los encantamientos
+[07:03:48] [Server thread/INFO]: [Not Secure] <LightAster> damelas unratito
+[07:03:51] [Server thread/INFO]: [Not Secure] <LightAster> ya te las doy
+[07:04:08] [Server thread/INFO]: [Not Secure] <LightAster> pa q no se te dañen
+[07:04:15] [Server thread/INFO]: [Not Secure] <rafai11> oki
+[07:04:18] [Server thread/INFO]: [Not Secure] <LightAster> le pongo mending y unbreaking
+[07:05:32] [Server thread/INFO]: [Not Secure] <LightAster> ven
+[07:07:04] [Server thread/INFO]: [Not Secure] <LightAster> subbe
+[07:07:54] [Server thread/INFO]: [Not Secure] <rafai11> esa es mi cuerda
+[07:08:00] [Server thread/INFO]: [Not Secure] <LightAster> ya te la doy
+[07:08:24] [Server thread/INFO]: [Not Secure] <LightAster> vuela con las elytras
+[07:08:53] [Server thread/INFO]: [Not Secure] <rafai11> y como hago eso
+[07:09:09] [Server thread/INFO]: [Not Secure] <LightAster> JAJAJAJAJ
+[07:09:13] [Server thread/INFO]: [Not Secure] <LightAster> cuando saltes
+[07:09:15] [Server thread/INFO]: [Not Secure] <rafai11> HAJJAJAAJJAAJ
+[07:09:18] [Server thread/INFO]: [Not Secure] <LightAster> apreta espacio otra vez
+[07:11:47] [Server thread/INFO]: [Not Secure] <LightAster> dale
+[07:11:48] [Server thread/INFO]: rafai11 fell from a high place
+[07:11:52] [Server thread/INFO]: [Not Secure] <LightAster> JAJAJAJAJAJJAJAJAJAJAJ
+[07:11:58] [Server thread/INFO]: [Not Secure] <rafai11> JAJJAJAAJJAAJJAJAJ
+[07:12:04] [Server thread/INFO]: [Not Secure] <LightAster> tienes q darle espacio otra v ez nada mas estes en el aire
+[07:12:06] [Server thread/INFO]: [Not Secure] <LightAster> asi vuelas
+[07:12:10] [Server thread/INFO]: [Not Secure] <LightAster> mañana usamos cohetes
+[07:12:12] [Server thread/INFO]: [Not Secure] <LightAster> o espera
+[07:12:16] [Server thread/INFO]: [Not Secure] <LightAster> pa q pruebes ahorita
+[07:12:20] [Server thread/INFO]: [LightAster: Teleported rafai11 to LightAster]
+[07:12:33] [Server thread/INFO]: [LightAster: Gave 32 [Firework Rocket] to rafai11]
+[07:12:41] [Server thread/INFO]: [Not Secure] <LightAster> ponte los fuegos artificiales en la mano
+[07:12:48] [Server thread/INFO]: [LightAster: Gave 32 [Firework Rocket] to LightAster]
+[07:12:53] [Server thread/INFO]: [Not Secure] <LightAster> mira
+[07:13:19] [Server thread/INFO]: [Not Secure] <rafai11> LO HICEEEEEEEEEEEEEEEEE
+[07:13:23] [Server thread/INFO]: [Not Secure] <LightAster> BIEEEN
+[07:13:25] [Server thread/INFO]: [Not Secure] <LightAster> esa es
+[07:13:38] [Server thread/INFO]: [Not Secure] <LightAster> doble espacio
+[07:13:50] [Server thread/INFO]: [LightAster: Gave 32 [Firework Rocket] to rafai11]
+[07:13:52] [Server thread/INFO]: [LightAster: Gave 32 [Firework Rocket] to rafai11]
+[07:13:55] [Server thread/INFO]: [LightAster: Gave 32 [Firework Rocket] to LightAster]
+[07:15:01] [Server thread/INFO]: rafai11 was slain by Zombie
+[07:15:43] [Server thread/INFO]: [Not Secure] <LightAster> mataron mi ghast
+[07:15:46] [Server thread/INFO]: [Not Secure] <LightAster> :c
+[07:15:49] [Server thread/INFO]: [Not Secure] <rafai11> queeeeeeeeeeeeeeeeeeeeeee
+[07:16:21] [Server thread/INFO]: [Not Secure] <rafai11> tienes la cuerda?
+[07:16:54] [Server thread/INFO]: [Not Secure] <LightAster> no
+[07:19:18] [Server thread/INFO]: rafai11 fell from a high place
+[07:19:31] [Server thread/INFO]: rafai11 has made the advancement [Not Today, Thank You]
+[07:20:27] [Server thread/INFO]: rafai11 was shot by Skeleton
+[07:22:15] [Server thread/INFO]: [Not Secure] <LightAster> oe
+[07:22:18] [Server thread/INFO]: [Not Secure] <LightAster> ya tengo sueño
